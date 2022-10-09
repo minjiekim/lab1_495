@@ -5,7 +5,7 @@ A short description / abstract of the topic you choose. For the text here and be
 
 
 ## List of Classes I am taking
-1. **Info 330**
+1. [**Info 330**](https://myplan.uw.edu/course/#/courses/INFO330)
 2. *Geog495*
 3. Geog317
 
