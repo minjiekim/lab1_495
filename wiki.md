@@ -7,4 +7,4 @@
 
 
 
-![uw logo](img/logo.png)
+![uw logo](/img/logo.png)
