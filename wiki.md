@@ -5,6 +5,6 @@
 2. [*Geog495*](https://geography.washington.edu/courses/2022/autumn/geog/495/b)
 3. [Geog317](https://geography.washington.edu/courses/2022/autumn/geog/317/a)
 
-
+### UW Logo
 
 ![uw logo](/img/logo.png)
