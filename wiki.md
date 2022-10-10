@@ -6,25 +6,8 @@ A short description / abstract of the topic you choose. For the text here and be
 
 ## List of Classes I am taking
 1. [**Info 330**](https://myplan.uw.edu/course/#/courses/INFO330)
-2. *Geog495*
-3. Geog317
+2. [*Geog495*](https://geography.washington.edu/courses/2022/autumn/geog/495/b)
+3. [Geog317](https://geography.washington.edu/courses/2022/autumn/geog/317/a)
 
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
 
-## Section 3
-One or several paragraphs for subsection 3.
 
-## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
-
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
